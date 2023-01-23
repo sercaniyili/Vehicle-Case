@@ -37,7 +37,7 @@ ___
 ### Çalıştırılması
 Local klasöre projeyi klonlamak için :
 ```
- git clone https://github.com/186-Teleperformans-Net-Bootcamp/ShoppingListProject-sercan-iyili
+ git clone https://github.com/sercaniyili/Vehicle-Case
 ```
 Projeyi build ederek gerekli veritabanları aşağıdaki komut ile oluşturulabilir.
 ```
