@@ -43,4 +43,58 @@ Projeyi build ederek gerekli veritabanları aşağıdaki komut ile oluşturulabi
 ```
  update-database
 ```
+<br/>
+
+
+- API Endpoints
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/api.dizayn.png />
+
+- Bütün arabalar listeleniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.all.png />
+
+
+- Renge göre filtrelenen arabalar listeleniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.bycolor.png />
+
+
+- Olmayan renge göre arabalar listelenemiyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.unmatch.png />
+
+
+- Yeni araba ekleniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.add.png />
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.add.db.true.png />
+
+
+- Araba id'ye göre siliniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.delete.true.png />
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.dele.db.png />
+
+
+- Id'si olmayan araba silinemiyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.delete.false.png />
+
+
+- Id'ye göre istenen aracın farları açılıp kapanabiliyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/car.lights.turn.png />
+
+
+- Renge göre filtrelenen otobüsler listeleniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/buses.bycolor.png />
+
+
+- Renge göre filtrelenen tekneler listeleniyor
+
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/boats.bycolor.png />
 
