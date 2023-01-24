@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Alphastellar.Case.WebApı.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/boats")]
     [ApiController]
     public class BoatController : ControllerBase
     {
