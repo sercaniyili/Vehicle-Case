@@ -48,7 +48,7 @@ Projeyi build ederek gerekli veritabanları aşağıdaki komut ile oluşturulabi
 
 - API Endpoints
 
-<https://github.com/sercaniyili/Vehicle-Case/blob/main/images/api-endpoints.png />
+<img src=https://github.com/sercaniyili/Vehicle-Case/blob/main/images/api-endpoints.png />
 
 - Bütün arabalar listeleniyor
 
